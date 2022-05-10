@@ -11,7 +11,7 @@
 
 - You can maximize your cloud shell window to by clicking the icon here:
 
-<img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.02.38.png" alt="drawing" width="500"/>
+<img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.02.38.png" alt="drawing" />
 
 - Use `Ctrl + Shift + v` to paste in the lab environment. If unsure what's registered in the virtrual machine chipboard, you can open a notepad in the VM and paste the content to the notepad to verify it.
 
@@ -87,4 +87,4 @@
     -  Step 5: you can use `ctrl + d` select and edit multiple instance/cursors 
        - You can find the region in the kubenetes url:
 
-       <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2014.58.43.png" alt="drawing" width="700"/>
+       <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2014.58.43.png" alt="drawing" />

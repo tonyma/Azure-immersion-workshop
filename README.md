@@ -36,7 +36,7 @@
         -  press `ctrl + [` to switch to vi normal mode
         -  type `:wq` and hit Enter key to save and quit vi
      -  Step 10: `PAT` is your github personal access token which you created in Task 3
-     -  Step 11: ssh to build vm: `ssh  adminfabmedical@fabmedical613071.centralus.cloudapp.azure.com`. You can find yours on "Environment Detail" -> "Azure Credentails tab"
+     -  Step 11: ssh to build agent vm: `ssh  adminfabmedical@fabmedical613071.centralus.cloudapp.azure.com`. You can find yours on "Environment Detail" -> "Azure Credentails tab"
   - Task 6
     - Step 5, if command `docker` is not recognized, please exit the SSH session and re-connect to build agent VM 
 

@@ -19,6 +19,8 @@
 
 <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.30.16.png" alt="drawing" width="500"/>
 
+- When replacing `[SUFFIX]`, we remove the `[` and `]` bits
+
 ## Notes:
 - Exercise 2
   - Task 3 Create GitHub Personal Access Token
@@ -35,6 +37,8 @@
         -  type `:wq` and hit Enter key to save and quit vi
      -  Step 10: `PAT` is your github personal access token which you created in Task 3
      -  Step 11: ssh to build vm: `ssh  adminfabmedical@fabmedical613071.centralus.cloudapp.azure.com`. You can find yours on "Environment Detail" -> "Azure Credentails tab"
+  - Task 6
+    - Step 5, if command `docker` is not recognized, please exit the SSH session and re-connect to build agent VM 
 
   - Task 7: 
     - Step 1 and 2: You can ignore all the warning from docker build commands (if there is any)

@@ -30,11 +30,11 @@
     - Step 2:
       -  Use `Application Id` for `<client id>`
       -  Use `Secret Key` for `<client secret>`
-   -  Step 8: to save and quit vi editor
-      -  press `ctrl + [` to switch to vi normal mode
-      -  type `:wq` and hit Enter key to save and quit vi
-   -  Step 10: `PAT` is your github personal access token which you created in Task 3
-   -  Step 11: ssh to build vm: `ssh  adminfabmedical@fabmedical613071.centralus.cloudapp.azure.com`. You can find yours on "Environment Detail" -> "Azure Credentails tab"
+     -  Step 8: to save and quit vi editor
+        -  press `ctrl + [` to switch to vi normal mode
+        -  type `:wq` and hit Enter key to save and quit vi
+     -  Step 10: `PAT` is your github personal access token which you created in Task 3
+     -  Step 11: ssh to build vm: `ssh  adminfabmedical@fabmedical613071.centralus.cloudapp.azure.com`. You can find yours on "Environment Detail" -> "Azure Credentails tab"
 
   - Task 7: 
     - Step 1 and 2: You can ignore all the warning from docker build commands (if there is any)

@@ -49,14 +49,14 @@
     - Step 5, Make sure uncheck `Require SSL`, your IP could be different with the IP in the screenshot
     - Step 15, You may get error but you can continue the lab exercise
 
-    <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.39.33.png" alt="drawing" width="700"/>
+    <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.39.33.png" alt="drawing"/>
 - Exercise 4
   - Task 1
     - Step 1, replace `{id}` with the id from previous step's output
     - Step 2, replace `SUFFIX` with your own uniq suffix
 
   - Task 2, you may see the error below, but you should be able to continue the lab exercise
-    <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.47.32.png" alt="drawing" width="700"/>
+    <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.47.32.png" alt="drawing"/>
 
     - Step 8: update the container image, replace `[LOGINSERVER]` with your Azure container register name (at line 25)
     - Step 20: If you see `No command 'code' found, did you mean`... error, this mean you executed the script on your build agent VM, you should exit the VM SSH session and execute it in your cloud terminal. And make sure you update the container image at line 25

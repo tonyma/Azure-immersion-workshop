@@ -7,7 +7,7 @@
 
 - The search bar is your friend. It is faster to navigate to resources in Azure Portal by using search bar other than the side menu
 
-<img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.01.14.png" alt="drawing" width="500"/>
+<img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.01.14.png" alt="drawing" />
 
 - You can maximize your cloud shell window to by clicking the icon here:
 
@@ -17,7 +17,7 @@
 
 - You can split your instruction to a separate window by clicking `Split Window` link at the bottom right corner of the panel
 
-<img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.30.16.png" alt="drawing" width="500"/>
+<img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.30.16.png" alt="drawing" />
 
 - When replacing `[SUFFIX]`, we remove the `[` and `]` bits and when replacing `<...>`, we remove the `<` and `>` bits
 

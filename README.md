@@ -19,7 +19,7 @@
 
 <img style="margin-left: 50px" src="./assets/Screen%20Shot%202022-05-10%20at%2013.30.16.png" alt="drawing" width="500"/>
 
-- When replacing `[SUFFIX]`, we remove the `[` and `]` bits
+- When replacing `[SUFFIX]`, we remove the `[` and `]` bits and when replacing `<...>`, we remove the `<` and `>` bits
 
 ## Notes:
 - Exercise 2
